@@ -1,4 +1,4 @@
-cdname: Build & Deploy — Dev
+name: Build & Deploy — Dev
 
 on:
   push:
